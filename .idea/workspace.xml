@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c59307d8-0fbe-4c16-ae03-9a641dbb6e01" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/doc/BillboardViewer/Billboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/BillboardViewer/Billboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/BillboardViewer/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/BillboardViewer/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/BillboardViewer/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/BillboardViewer/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ClientSideHelpers/ClientSignal.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ClientSideHelpers/ClientSignal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ClientSideHelpers/SocketConnect.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ClientSideHelpers/SocketConnect.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ClientSideHelpers/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ClientSideHelpers/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ClientSideHelpers/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ClientSideHelpers/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ControlPanel/ControlPanel.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ControlPanel/ControlPanel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ControlPanel/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ControlPanel/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ControlPanel/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ControlPanel/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CreateBillboards/CreateBillboards.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CreateBillboards/CreateBillboards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CreateBillboards/XMLParser.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CreateBillboards/XMLParser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CreateBillboards/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CreateBillboards/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CreateBillboards/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CreateBillboards/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/DatabaseConnection.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/DatabaseConnection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/DatabaseNavigator.Response.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/DatabaseNavigator.Response.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/DatabaseNavigator.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/DatabaseNavigator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/DatabaseServer.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/DatabaseServer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/Helpers/DatabaseEncryption.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/Helpers/DatabaseEncryption.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/Helpers/DatabaseStatements.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/Helpers/DatabaseStatements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/Helpers/DatabaseToken.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/Helpers/DatabaseToken.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/Helpers/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/Helpers/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/Helpers/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/Helpers/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Database/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Database/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script-dir/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientSideHelpers/ClientSignal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientSideHelpers/ClientSignal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientSideHelpers/SocketConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientSideHelpers/SocketConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlPanel/ControlPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlPanel/ControlPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreateBillboards/CreateBillboards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateBillboards/CreateBillboards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/DatabaseNavigator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/DatabaseNavigator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/DatabaseServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/DatabaseServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/DatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/Helpers/DatabaseStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/Helpers/DatabaseStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/Helpers/DatabaseToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/Helpers/DatabaseToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/Empty.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/Harry Billboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/New Billboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/TestBillboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/Testing the creator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/XML1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/XML3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/dsfasfsd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/myBB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/newtest2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/testRefresh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/testingExport.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFiles/testingRefresh.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZEzd8YlUKGUG9SH2UE7eUFAxuw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="DatabaseStreamNavigator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Database" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\harry\OneDrive\Desktop\University\CAB302\Assessment\CAB302---Billboard-Assignment\src\Database" />
+      <recent name="C:\Users\harry\OneDrive\Desktop\University\CAB302\Assessment\CAB302---Billboard-Assignment\src\Exclusions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ControlPanel">
+    <configuration name="AddUserForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlPanel.AddUserForm" />
+      <module name="Assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ControlPanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControlPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlPanel.ControlPanel" />
+      <module name="Assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ControlPanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControlPanelMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlPanel.ControlPanelMain" />
+      <module name="Assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ControlPanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Database.DatabaseServer" />
+      <module name="Assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exclusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Database.Helpers.GenerateValues" />
+      <module name="Assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Database.Helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ControlPanel" />
+      <item itemvalue="Application.DatabaseServer" />
+      <item itemvalue="Application.ControlPanelMain" />
+      <item itemvalue="Application.GenerateValues" />
+      <item itemvalue="Application.AddUserForm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ControlPanel" />
+        <item itemvalue="Application.DatabaseServer" />
+        <item itemvalue="Application.ControlPanelMain" />
+        <item itemvalue="Application.AddUserForm" />
+        <item itemvalue="Application.GenerateValues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c59307d8-0fbe-4c16-ae03-9a641dbb6e01" name="Default Changelist" comment="" />
+      <created>1584419125322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584419125322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="183" key="#Project_Structure" timestamp="1586064226575">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="183" key="#Project_Structure/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1586064226575" />
+    <state x="385" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590637420879">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="274" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1590305420866" />
+    <state x="385" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590637420879" />
+    <state x="442" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/-2376.498.1584.950@0.0.2048.1112" timestamp="1589457716971" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1585980204359" />
+    <state x="2334" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1586063792085" />
+    <state x="1037" y="-937" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588142816315">
+      <screen x="0" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="1037" y="-937" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1588142816315" />
+    <state x="734" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1590899720932">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="917" y="-1205" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590838238785" />
+    <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1589893190174" />
+    <state x="688" y="181" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1590657492491" />
+    <state x="734" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/-2376.498.1584.950@0.0.2048.1112" timestamp="1590899720932" />
+    <state x="2609" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586063781236">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2609" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1586063781236" />
+    <state x="808" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585980162308">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="808" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1585980162308" />
+    <state x="455" y="127" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1588723854755">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="455" y="127" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1588723854755" />
+    <state x="479" y="321" width="408" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588727584172">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="479" y="321" width="408" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1588727584172" />
+    <state x="528" y="333" width="322" height="204" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1588124996329">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="528" y="333" width="322" height="204" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1368.872@0.0.1368.872" timestamp="1588124996329" />
+    <state x="449" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590644414984">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590644414984" />
+    <state x="414" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590918521856">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="414" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1590918521856" />
+    <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1590849473974" />
+    <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.872@0.0.1368.872" timestamp="1588124902042" />
+    <state x="582" y="227" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590658407204" />
+    <state x="965" y="-1077" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590929194417">
+      <screen x="0" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="965" y="-1077" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590929194417" />
+    <state x="724" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1590658444155" />
+    <state x="772" y="288" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2048.1112/-2376.498.1584.950@0.0.2048.1112" timestamp="1589466856474" />
+    <state x="789" y="282" key="FileChooserDialogImpl" timestamp="1589453492530">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="527" y="221" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1588125862836" />
+    <state x="789" y="282" key="FileChooserDialogImpl/0.0.2048.1112/-2376.498.1584.950@0.0.2048.1112" timestamp="1589453492530" />
+    <state x="2659" y="266" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1586064294806" />
+    <state width="2517" height="748" key="GridCell.Tab.0.bottom" timestamp="1590929265235">
+      <screen x="0" y="-1440" width="2560" height="1400" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590919169230" />
+    <state width="2517" height="748" key="GridCell.Tab.0.bottom/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590929265235" />
+    <state width="1325" height="215" key="GridCell.Tab.0.bottom/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1590849541611" />
+    <state width="1325" height="150" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1590831833630" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590926111025" />
+    <state width="2005" height="230" key="GridCell.Tab.0.bottom/0.0.2048.1112/-2376.498.1584.950@0.0.2048.1112" timestamp="1590913933235" />
+    <state width="2517" height="748" key="GridCell.Tab.0.center" timestamp="1590929265235">
+      <screen x="0" y="-1440" width="2560" height="1400" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590919169230" />
+    <state width="2517" height="748" key="GridCell.Tab.0.center/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590929265235" />
+    <state width="1325" height="215" key="GridCell.Tab.0.center/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1590849541611" />
+    <state width="1325" height="150" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1590831833630" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590926111025" />
+    <state width="2005" height="230" key="GridCell.Tab.0.center/0.0.2048.1112/-2376.498.1584.950@0.0.2048.1112" timestamp="1590913933235" />
+    <state width="2517" height="748" key="GridCell.Tab.0.left" timestamp="1590929265235">
+      <screen x="0" y="-1440" width="2560" height="1400" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590919169229" />
+    <state width="2517" height="748" key="GridCell.Tab.0.left/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590929265235" />
+    <state width="1325" height="215" key="GridCell.Tab.0.left/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1590849541611" />
+    <state width="1325" height="150" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1590831833630" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590926111025" />
+    <state width="2005" height="230" key="GridCell.Tab.0.left/0.0.2048.1112/-2376.498.1584.950@0.0.2048.1112" timestamp="1590913933235" />
+    <state width="2517" height="748" key="GridCell.Tab.0.right" timestamp="1590929265235">
+      <screen x="0" y="-1440" width="2560" height="1400" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590919169230" />
+    <state width="2517" height="748" key="GridCell.Tab.0.right/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590929265235" />
+    <state width="1325" height="215" key="GridCell.Tab.0.right/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1590849541611" />
+    <state width="1325" height="150" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1590831833630" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590926111025" />
+    <state width="2005" height="230" key="GridCell.Tab.0.right/0.0.2048.1112/-2376.498.1584.950@0.0.2048.1112" timestamp="1590913933235" />
+    <state width="1325" height="215" key="GridCell.Tab.1.bottom" timestamp="1590849541613">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1258" height="382" key="GridCell.Tab.1.bottom/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590841800903" />
+    <state width="1325" height="215" key="GridCell.Tab.1.bottom/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1590849541613" />
+    <state width="1325" height="216" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1590830849090" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590821656250" />
+    <state width="1325" height="215" key="GridCell.Tab.1.center" timestamp="1590849541612">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1258" height="382" key="GridCell.Tab.1.center/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590841800903" />
+    <state width="1325" height="215" key="GridCell.Tab.1.center/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1590849541612" />
+    <state width="1325" height="216" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1590830849090" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590821656250" />
+    <state width="1325" height="215" key="GridCell.Tab.1.left" timestamp="1590849541612">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1258" height="382" key="GridCell.Tab.1.left/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590841800903" />
+    <state width="1325" height="215" key="GridCell.Tab.1.left/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1590849541612" />
+    <state width="1325" height="216" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1590830849090" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590821656250" />
+    <state width="1325" height="215" key="GridCell.Tab.1.right" timestamp="1590849541612">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1258" height="382" key="GridCell.Tab.1.right/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590841800903" />
+    <state width="1325" height="215" key="GridCell.Tab.1.right/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1590849541612" />
+    <state width="1325" height="216" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1590830849090" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590821656250" />
+    <state x="440" y="114" key="SettingsEditor" timestamp="1590637386137">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1590637386137" />
+    <state x="901" y="-962" key="com.intellij.ide.util.TipDialog" timestamp="1590928173420">
+      <screen x="0" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="901" y="-962" key="com.intellij.ide.util.TipDialog/0.0.1368.872/0.-1440.2560.1400@0.-1440.2560.1400" timestamp="1590928173420" />
+    <state x="482" y="298" key="com.intellij.ide.util.TipDialog/0.0.1368.872/0.-1440.2560.1400@0.0.1368.872" timestamp="1590625234993" />
+    <state x="482" y="298" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1590829256893" />
+    <state x="721" y="380" key="com.intellij.ide.util.TipDialog/0.0.2048.1112/-2376.498.1584.950@0.0.2048.1112" timestamp="1590898444900" />
+    <state x="769" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590641248415">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1590641248415" />
+    <state x="93" y="93" width="1181" height="685" key="dock-window-1" timestamp="1590310712610">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="93" y="93" width="1181" height="685" key="dock-window-1/0.0.1368.872@0.0.1368.872" timestamp="1590310712610" />
+    <state x="488" y="229" width="944" height="840" key="search.everywhere.popup" timestamp="1590817252845">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="348" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1590555411142" />
+    <state x="488" y="229" width="944" height="840" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590817252845" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ControlPanel/AddUserForm.java</url>
+          <line>62</line>
+          <properties class="ControlPanel.AddUserForm">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billboard>
+    <message>Billboard with message, GIF and information</message>
+    <picture url="https://cloudstor.aarnet.edu.au/plus/s/A26R8MYAplgjUhL/download" />
+    <information>This billboard has a message tag, a picture tag (linking to a URL with a GIF image) and an information tag. The picture is drawn in the centre and the message and information text are centred in the space between the top of the image and the top of the page, and the space between the bottom of the image and the bottom of the page, respectively.</information>
+</billboard>

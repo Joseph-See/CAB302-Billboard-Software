@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billboard>
+    <message>Default-coloured message</message>
+    <picture url="https://cloudstor.aarnet.edu.au/plus/s/X79GyWIbLEWG4Us/download" />
+    <information colour="#60B9FF">Custom-coloured information text</information>
+</billboard>

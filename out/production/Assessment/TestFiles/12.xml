@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billboard background="#555555">
+    <message colour="#FFFFFF">The information text is always smaller than the message text</message>
+    <information colour="#DDDDDD">The information text is always smaller than the message text</information>
+</billboard>

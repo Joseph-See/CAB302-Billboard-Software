@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billboard>
+    <message>Billboard with message and info</message>
+    <information>Billboard with a message tag, an information tag, but no picture tag. The message is centred within the top half of the screen while the information is centred within the bottom half.</information>
+</billboard>
